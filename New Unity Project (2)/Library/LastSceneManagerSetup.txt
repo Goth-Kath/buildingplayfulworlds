@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/bpw1 overig/level.unity
+  isLoaded: 1
+  isActive: 1
